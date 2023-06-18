@@ -1,0 +1,2 @@
+C:\Users\israel.garcia\source\repos\License.viewer\apps\frontend\License.viewer.web\obj\Debug\license.viewer.web.esproj.SuggestedBindingRedirects.cache
+C:\Users\israel.garcia\source\repos\License.viewer\apps\frontend\License.viewer.web\obj\Debug\license.viewer.web.esproj.CoreCompileInputs.cache

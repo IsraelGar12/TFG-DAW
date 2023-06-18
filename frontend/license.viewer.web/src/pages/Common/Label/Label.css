@@ -1,0 +1,14 @@
+label{
+    display: inline-block;
+    margin: 5px;
+}
+.div{
+    width: 20%;
+}
+.title-label{
+    width: 150px;
+}
+.login-container{
+    border: 1px solid black;
+
+}

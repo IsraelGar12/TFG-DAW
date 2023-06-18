@@ -1,0 +1,30 @@
+.App {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.Contenedor_3 {
+    border: 1px solid black;
+    color: black;
+    background-color: #00a0df;
+    width: 90%;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: justify;
+}
+
+.Contenedor_3 p {
+    margin-bottom: 10px;
+}
+
+.Title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    .Contenedor_3 {
+        width: 95%;
+    }
+}

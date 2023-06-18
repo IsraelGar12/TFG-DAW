@@ -1,0 +1,79 @@
+
+.Contenedor_1{
+    border:1px solid black;
+    color :black;
+    font-weight: bold;
+    background-color: #00A0DF;
+    width: 96%;
+    margin-left: 2%;
+    margin-top: 1%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.Contenedor_3{
+    border:1px solid black;
+    color :lightyellow;
+    font-weight: bold;
+    background-color: #00A0DF;
+    width: 96%;
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: center;
+
+    font-size: 14px;
+}
+.Contenedor_2{
+    border:1px solid black;
+    color :lightyellow;
+    font-weight: bold;
+    background-color: #00A0DF;
+    width: 96%;
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: center;
+
+    font-size: 16px;
+}
+.Contenedor_izq{
+    width: 70%;
+    
+}
+.Contenedor_der{
+    width:80%;
+    text-align: center;
+
+}
+
+select, input, label{
+    width: 120px;
+}
+
+.rdt_TableCol {
+    background-color: #00A0DF;
+    font-size: 14px;
+    justify-content: center;
+    font-weight: bold;
+
+}
+
+.rdt_TableCell {
+    background-color: rgba(0, 255, 255, 0.198);
+    justify-content: center;
+}
+.parteabajo{
+    text-align: center;
+    background-color:#00A0DF;
+    font-weight: bold;
+    font-size: 15px;
+}
+.imgexcel{
+    width: 120px;
+ }
+
+body{
+    background-color:rgba(205,255,255,255);
+}
+.rdt_Pagination{
+    background-color: red;
+}

@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Israel\\Downloads\\EMPRESA\\Wallarock\\apps\\frontend\\License.viewer.web\\Wallarock.web.esproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Israel\\Downloads\\EMPRESA\\Wallarock\\apps\\frontend\\License.viewer.web\\Wallarock.web.esproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Israel\\Downloads\\EMPRESA\\Wallarock\\apps\\frontend\\License.viewer.web\\Wallarock.web.esproj",
+        "projectName": "Wallarock.web",
+        "projectPath": "C:\\Users\\Israel\\Downloads\\EMPRESA\\Wallarock\\apps\\frontend\\License.viewer.web\\Wallarock.web.esproj",
+        "packagesPath": "C:\\Users\\Israel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Israel\\Downloads\\EMPRESA\\Wallarock\\apps\\frontend\\License.viewer.web\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Israel\\Downloads\\EMPRESA\\Wallarock\\NuGet.Config",
+          "C:\\Users\\Israel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.CodeAnalysis.NetAnalyzers": {
+              "include": "None",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.VisualStudio.Threading.Analyzers": {
+              "include": "None",
+              "target": "Package",
+              "version": "[17.6.40, )"
+            },
+            "Roslynator.Analyzers": {
+              "include": "None",
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "SonarAnalyzer.CSharp": {
+              "include": "None",
+              "target": "Package",
+              "version": "[8.51.0.59060, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "None",
+              "target": "Package",
+              "version": "[1.2.0-beta.435, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

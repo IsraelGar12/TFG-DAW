@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "f6paROOVggOb/NUDKvC0QzZdvRa1iXuBQlzdFAJ+4K0zkAZCRK1V6dRgt+ltCLSNAaW2+rak5AwjaZwQhrzyZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Israel\\Downloads\\EMPRESA\\Wallarock\\apps\\frontend\\License.viewer.web\\Wallarock.web.esproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Israel\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\7.0.1\\microsoft.codeanalysis.netanalyzers.7.0.1.nupkg.sha512",
+    "C:\\Users\\Israel\\.nuget\\packages\\microsoft.visualstudio.threading.analyzers\\17.6.40\\microsoft.visualstudio.threading.analyzers.17.6.40.nupkg.sha512",
+    "C:\\Users\\Israel\\.nuget\\packages\\roslynator.analyzers\\4.3.0\\roslynator.analyzers.4.3.0.nupkg.sha512",
+    "C:\\Users\\Israel\\.nuget\\packages\\sonaranalyzer.csharp\\8.51.0.59060\\sonaranalyzer.csharp.8.51.0.59060.nupkg.sha512",
+    "C:\\Users\\Israel\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\Israel\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}
