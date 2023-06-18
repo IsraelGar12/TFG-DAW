@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Israel\\Downloads\\EMPRESA\\Wallarock\\apps\\backend\\License.viewer.api\\License.viewer.api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Israel\\Downloads\\EMPRESA\\Wallarock\\apps\\backend\\License.viewer.api\\License.viewer.api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Israel\\Downloads\\EMPRESA\\Wallarock\\apps\\backend\\License.viewer.api\\License.viewer.api.csproj",
+        "projectName": "License.viewer.api",
+        "projectPath": "C:\\Users\\Israel\\Downloads\\EMPRESA\\Wallarock\\apps\\backend\\License.viewer.api\\License.viewer.api.csproj",
+        "packagesPath": "C:\\Users\\Israel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Israel\\Downloads\\EMPRESA\\Wallarock\\apps\\backend\\License.viewer.api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Israel\\Downloads\\EMPRESA\\Wallarock\\NuGet.Config",
+          "C:\\Users\\Israel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DockerComposeBuilder": {
+              "target": "Package",
+              "version": "[0.2.1, )"
+            },
+            "FluentNHibernate.Net35": {
+              "target": "Package",
+              "version": "[1.5.3, )"
+            },
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.CodeAnalysis.NetAnalyzers": {
+              "include": "None",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Threading.Analyzers": {
+              "include": "None",
+              "target": "Package",
+              "version": "[17.6.40, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.4.2, )"
+            },
+            "NHibernate.Linq": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Roslynator.Analyzers": {
+              "include": "None",
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "SonarAnalyzer.CSharp": {
+              "include": "None",
+              "target": "Package",
+              "version": "[8.51.0.59060, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "None",
+              "target": "Package",
+              "version": "[1.2.0-beta.435, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

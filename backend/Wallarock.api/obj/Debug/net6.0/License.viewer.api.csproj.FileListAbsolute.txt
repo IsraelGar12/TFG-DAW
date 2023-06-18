@@ -1,0 +1,172 @@
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\appsettings.json
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\License.viewer.api.exe
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\License.viewer.api.deps.json
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\License.viewer.api.runtimeconfig.json
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\License.viewer.api.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\License.viewer.api.pdb
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\License.viewer.api.xml
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.csproj.AssemblyReference.cache
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.csproj.CoreCompileInputs.cache
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\staticwebassets\msbuild.License.viewer.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\staticwebassets\msbuild.build.License.viewer.api.props
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.License.viewer.api.props
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.License.viewer.api.props
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\scopedcss\bundle\License.viewer.api.styles.css
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.csproj.CopyComplete
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\refint\License.viewer.api.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.xml
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.pdb
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.genruntimeconfig.cache
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\obj\Debug\net6.0\ref\License.viewer.api.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\DockerComposeBuilder.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\YamlDotNet.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Antlr3.Runtime.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\FluentNHibernate.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Iesi.Collections.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\NHibernate.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\NHibernate.Linq.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Remotion.Linq.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\Remotion.Linq.EagerFetching.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\israel.garcia\source\repos\First_License-main\apps\backend\License.viewer.api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\appsettings.json
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\License.viewer.api.exe
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\License.viewer.api.deps.json
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\License.viewer.api.runtimeconfig.json
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\License.viewer.api.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\License.viewer.api.pdb
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\License.viewer.api.xml
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Antlr3.Runtime.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\DockerComposeBuilder.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\FluentNHibernate.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Iesi.Collections.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\NHibernate.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\NHibernate.Linq.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Remotion.Linq.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Remotion.Linq.EagerFetching.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\YamlDotNet.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.csproj.AssemblyReference.cache
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.csproj.CoreCompileInputs.cache
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\staticwebassets\msbuild.License.viewer.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\staticwebassets\msbuild.build.License.viewer.api.props
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.License.viewer.api.props
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.License.viewer.api.props
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\scopedcss\bundle\License.viewer.api.styles.css
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.csproj.CopyComplete
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\refint\License.viewer.api.dll
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.xml
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.pdb
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\License.viewer.api.genruntimeconfig.cache
+C:\Users\israel.garcia\source\repos\First_License-main - copia\apps\backend\License.viewer.api\obj\Debug\net6.0\ref\License.viewer.api.dll

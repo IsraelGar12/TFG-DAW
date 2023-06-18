@@ -1,0 +1,18 @@
+version: '3.4'
+services:
+  MySql:
+    image: library/mysql
+    container_name: Wallarock.api
+    hostname: mysql
+    restart: always
+    ports:
+      - '3306:3306'
+    environment:
+      - MYSQL_DATABASE=Wallarock.viewer
+      - MYSQL_USER=admin
+      - MYSQL_PASSWORD=admin
+      - MYSQL_RANDOM_ROOT_PASSWORD=admin
+    command: 'mysqld --sql_mode="ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION" --character-set-server=utf8 --collation-server=utf8_slovenian_ci --init-connect=''SET NAMES UTF8;'' --innodb-flush-log-at-trx-commit=0'
+    volumes:
+      - './mysql/mysql-init:/docker-entrypoint-initdb.d'
+      - './mysql/mysql-volume:/var/lib/mysql'
